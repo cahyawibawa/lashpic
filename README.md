@@ -1,13 +1,24 @@
-# next-template
+# Splasearcy
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+Unveil Visual Elegance: Unsplash-Powered Photo Discovery
+![splasearcy](https://github.com/cahyawibawa/splasearcy/assets/62229971/c5f832e4-9dc8-4b8f-a0bc-bf4ce332ed9a)
 
 ## Usage
 
+1.Install the dependencies with one of the package managers listed below:
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+pnpm install
+bun install
+npm install
+yarn install
 ```
-
+2.Start the development mode:
+```bash
+pnpm dev
+bun dev
+npm run dev
+yarn dev
+```
 ## Features
 
 - Next.js 13 App Directory
@@ -17,6 +28,4 @@ npx create-next-app -e https://github.com/shadcn/next-template
 - Dark mode with `next-themes`
 - Tailwind CSS class sorting, merging and linting.
 
-## License
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
