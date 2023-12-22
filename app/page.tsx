@@ -18,10 +18,10 @@ export default function IndexPage() {
             Follow along on Twitter
           </a> */}
           <h1 className="text-3xl font-semibold sm:text-5xl md:text-6xl lg:text-7xl">
-            Search photos around the world with Splasearcy
+            Search photos around the world with Lashpic
           </h1>
           <p className="max-w-[42rem] pb-8 leading-normal text-muted-foreground sm:text-xl sm:leading-8 ">
-            Splasearcy is a free stock photo search engine that helps you find
+            Lashpic is a free stock photo search engine that helps you find
             the perfect photo for your project.
           </p>
           {/* <a
